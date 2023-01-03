@@ -14,10 +14,10 @@ Leaving it blank will make it so only 'yourdomain.com' will be effected. If you 
 empty.<br>After that, click 'Save, then click on the 'Your domain has Dynamic DNS set up' drop-down box, then click the 'View Credentials' 
 button next to the domain you want. Enter the Username and Password in the Google Domains DDNS Updater program.
 <br><br>
-###At this point you are done and you can click the 'Start' button to start the update cycle, but you have some configuration choices.
+### At this point you are done and you can click the 'Start' button to start the update cycle, but you have some configuration choices:
 You can change the type of IP the DDNS is set to. Very important for different situations. If you're running a game server like Minecraft, be sure
-to select IPv4, otherwise the IP the DDNS will be set to will be invalid.<br>
-You can change the update interval, but i'd reccomend keeping it to 15 minutes to not spam the IP and DDNS API.<br>
+to select IPv4, otherwise the IP the DDNS will be set to will be invalid.<br><br>
+You can change the update interval, but i'd reccomend keeping it to 15 minutes to not spam the IP and DDNS API.<br><br>
 You can enable 'Start Refresh when Open' to start the update interval when the program is opened. This can be tied with putting the program's
 shortcut in 'AutoStart' to start the program after a system reboot.
 
