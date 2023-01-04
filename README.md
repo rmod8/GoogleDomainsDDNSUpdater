@@ -35,5 +35,5 @@ This program is licensed under the MIT license, more can be read in the [LICENSE
 
 ## Special Thanks
 [Saud Iqbal](https://github.com/saudiqbal) - Creating the original program which served as the base for this program.<br>
-[Mark James](http://www.famfamfam.com/about/) - Creator of Silk Icons, which is used in this program.
+[Mark James](http://www.famfamfam.com/about/) - Creator of Silk Icons, which is used in this program.<br>
 ItsMeFlynn - Program Testing
